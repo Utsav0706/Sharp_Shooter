@@ -2,7 +2,7 @@ using StarterAssets;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class Robort : MonoBehaviour
+public class Robot : MonoBehaviour
 {
     FirstPersonController player;
     NavMeshAgent navMeshAgent;
